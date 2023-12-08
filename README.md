@@ -2,7 +2,6 @@
 ![Screenshot from 2023-12-08 22-34-55](https://github.com/10nayan/TradingProject/assets/88362758/5bcad675-1333-41d3-9acd-2e33484513a5)
 ## Introduction
 This website is built with Django which is a python framework for web development.
-You can check out this website clicking here, https://github.com/10nayan/TradingProject
 This app has basic feature of uploading a CSV file of Nifty price data and this returns a JSON file with price candle data within the user entered timeframe
 ## Files in the project
 - **/MainApp/views.py**: This is the app file that contains the logic of all the view functions in the backend which generate dynamic contents to HTML template.
